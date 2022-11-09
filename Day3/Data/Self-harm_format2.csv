@@ -1,0 +1,205 @@
+,ID,Gender,Group,Education_level,TR,SH_stimuli,Age
+0,1,M,SH,a level,47,Neutral,78.0
+1,2,F,SH,masters,30,Neutral,62.0
+2,3,F,SH,bachelors,34,Neutral,53.0
+3,4,F,SH,masters,33,Neutral,71.0
+4,5,F,SH,bachelors,25,Neutral,41.0
+5,6,F,SH,gcse,25,Neutral,54.0
+6,7,F,SH,a level,40,Neutral,78.0
+7,8,F,SH,a level,40,Neutral,60.0
+8,9,F,SH,a level,35,Neutral,71.0
+9,10,F,SH,as level,20,Neutral,41.0
+10,11,F,SH,a level,26,Neutral,51.0
+11,12,F,SH,a level,40,Neutral,64.0
+12,13,M,SH,bachelors,30,Neutral,52.0
+13,14,F,SH,bachelors,42,Neutral,71.0
+14,15,F,SH,bachelors,34,Neutral,64.0
+15,16,F,SH,a level,28,Neutral,69.0
+16,17,F,SH,gcse,30,Neutral,51.0
+17,18,F,SH,bachelors,38,Neutral,70.0
+18,19,F,SH,missing data,38,Neutral,60.0
+19,20,F,SH,missing data,30,Neutral,71.0
+20,21,F,SH,a level,26,Neutral,53.0
+21,22,F,SH,a level,41,Neutral,72.0
+22,23,F,SH,gcse,49,Neutral,86.0
+23,24,M,SH,gcse,30,Neutral,62.0
+24,25,M,SH,gcse,30,Neutral,38.0
+25,26,F,SH,gcse,33,Neutral,41.0
+26,27,M,SH,gcse,36,Neutral,69.0
+27,28,F,SH,gcse,33,Neutral,51.0
+28,29,F,SH,a level,28,Neutral,38.0
+29,30,F,SH,a level,30,Neutral,65.0
+30,31,M,SH,a level,26,Neutral,39.0
+31,32,F,SH,as level,32,Neutral,69.0
+32,33,F,SH,bachelors,44,Neutral,87.0
+33,34,F,SH,gcse,36,Neutral,60.0
+34,35,F,SH,a level,29,Neutral,42.0
+35,36,M,SH,gcse,27,Neutral,52.0
+36,37,F,SH,gcse,20,Neutral,60.0
+37,38,F,SH,gcse,20,Neutral,35.0
+38,39,F,SH,a level,27,Neutral,45.0
+39,40,F,SH,bachelors,34,Neutral,65.0
+40,41,M,SH,a level,23,Neutral,51.0
+41,42,F,SH,gcse,44,Neutral,72.0
+42,43,F,SH,missing data,23,Neutral,39.0
+43,44,F,SH,missing data,30,Neutral,60.0
+44,45,F,SH,a level,18,Neutral,37.0
+45,46,M,SH,a level,19,Neutral,27.0
+46,47,F,SH,a level,35,Neutral,76.0
+47,48,F,SH,gcse,36,Neutral,75.0
+48,49,F,SH,bachelors,54,Neutral,75.0
+49,50,F,SH,a level,43,Neutral,86.0
+50,51,F,SH,a level,42,Neutral,62.0
+51,52,F,NHC,a level,41,Neutral,65.0
+52,53,M,NHC,a level,28,Neutral,59.0
+53,54,F,NHC,gcse,29,Neutral,51.0
+54,55,F,NHC,bachelors,27,Neutral,59.0
+55,56,F,NHC,a level,37,Neutral,77.0
+56,57,M,NHC,a level,27,Neutral,41.0
+57,58,F,NHC,a level,20,Neutral,59.0
+58,59,F,NHC,bachelors,48,Neutral,78.0
+59,60,F,NHC,gcse,51,Neutral,64.0
+60,61,F,NHC,gcse,35,Neutral,58.0
+61,62,M,NHC,a level,38,Neutral,56.0
+62,63,F,NHC,gcse,38,Neutral,67.0
+63,64,F,NHC,bachelors,20,Neutral,30.0
+64,65,F,NHC,a level,37,Neutral,75.0
+65,66,F,NHC,gcse,37,Neutral,53.0
+66,67,F,NHC,a level,41,Neutral,74.0
+67,68,F,NHC,gcse,35,Neutral,45.0
+68,69,F,NHC,gcse,33,Neutral,50.0
+69,70,F,NHC,a level,35,Neutral,73.0
+70,71,F,NHC,a level,38,Neutral,75.0
+71,72,F,NHC,a level,32,Neutral,41.0
+72,73,F,NHC,gcse,36,Neutral,57.0
+73,74,F,NHC,gcse,25,Neutral,49.0
+74,75,F,NHC,a level,42,Neutral,74.0
+75,76,F,NHC,gcse,30,Neutral,37.0
+76,77,F,NHC,a level,20,Neutral,53.0
+77,78,F,NHC,gcse,27,Neutral,62.0
+78,79,F,NHC,gcse,26,Neutral,41.0
+79,80,F,NHC,a level,48,Neutral,84.0
+80,81,F,NHC,a level,28,Neutral,58.0
+81,82,F,NHC,gcse,25,Neutral,48.0
+82,83,F,NHC,gcse,48,Neutral,62.0
+83,84,F,NHC,missing data,36,Neutral,51.0
+84,85,M,NHC,a level,36,Neutral,67.0
+85,86,F,NHC,cert HE,49,Neutral,69.0
+86,87,M,NHC,bachelors,20,Neutral,58.0
+87,88,M,NHC,gcse,25,Neutral,43.0
+88,89,M,NHC,a level,22,Neutral,34.0
+89,90,F,NHC,gcse,30,Neutral,54.0
+90,91,F,NHC,missing data,28,Neutral,51.0
+91,92,F,NHC,a level,37,Neutral,78.0
+92,93,F,NHC,gcse,45,Neutral,55.0
+93,94,M,NHC,gcse,22,Neutral,33.0
+94,95,F,NHC,gcse,29,Neutral,71.0
+95,96,F,NHC,a level,32,Neutral,42.0
+96,97,F,NHC,a level,41,Neutral,69.0
+97,98,M,NHC,bachelors,37,Neutral,53.0
+98,99,F,NHC,a level,49,Neutral,60.0
+99,100,F,NHC,bachelors,18,Neutral,32.0
+100,101,F,NHC,a levels,25,Neutral,60.0
+101,102,F,NHC,a level,10,Neutral,48.0
+102,1,M,SH,a level,52,Explicit,69.0
+103,2,F,SH,masters,40,Explicit,50.0
+104,3,F,SH,bachelors,23,Explicit,65.0
+105,4,F,SH,masters,37,Explicit,60.0
+106,5,F,SH,bachelors,24,Explicit,33.0
+107,6,F,SH,gcse,33,Explicit,76.0
+108,7,F,SH,a level,40,Explicit,78.0
+109,8,F,SH,a level,50,Explicit,63.0
+110,9,F,SH,a level,30,Explicit,38.0
+111,10,F,SH,as level,17,Explicit,39.0
+112,11,F,SH,a level,16,Explicit,41.0
+113,12,F,SH,a level,41,Explicit,62.0
+114,13,M,SH,bachelors,47,Explicit,85.0
+115,14,F,SH,bachelors,39,Explicit,61.0
+116,15,F,SH,bachelors,40,Explicit,77.0
+117,16,F,SH,a level,40,Explicit,54.0
+118,17,F,SH,gcse,41,Explicit,81.0
+119,18,F,SH,bachelors,38,Explicit,51.0
+120,19,F,SH,missing data,44,Explicit,75.0
+121,20,F,SH,missing data,35,Explicit,54.0
+122,21,F,SH,a level,52,Explicit,78.0
+123,22,F,SH,a level,45,Explicit,76.0
+124,23,F,SH,gcse,38,Explicit,50.0
+125,24,M,SH,gcse,30,Explicit,52.0
+126,25,M,SH,gcse,50,Explicit,79.0
+127,26,F,SH,gcse,52,Explicit,61.0
+128,27,M,SH,gcse,42,Explicit,50.0
+129,28,F,SH,gcse,30,Explicit,57.0
+130,29,F,SH,a level,32,Explicit,75.0
+131,30,F,SH,a level,46,Explicit,83.0
+132,31,M,SH,a level,24,Explicit,38.0
+133,32,F,SH,as level,43,Explicit,79.0
+134,33,F,SH,bachelors,45,Explicit,71.0
+135,34,F,SH,gcse,43,Explicit,57.0
+136,35,F,SH,a level,33,Explicit,57.0
+137,36,M,SH,gcse,23,Explicit,55.0
+138,37,F,SH,gcse,11,Explicit,29.0
+139,38,F,SH,gcse,26,Explicit,36.0
+140,39,F,SH,a level,33,Explicit,51.0
+141,40,F,SH,bachelors,33,Explicit,65.0
+142,41,M,SH,a level,24,Explicit,46.0
+143,42,F,SH,gcse,45,Explicit,55.0
+144,43,F,SH,missing data,24,Explicit,32.0
+145,44,F,SH,missing data,45,Explicit,54.0
+146,45,F,SH,a level,22,Explicit,44.0
+147,46,M,SH,a level,19,Explicit,34.0
+148,47,F,SH,a level,32,Explicit,57.0
+149,48,F,SH,gcse,44,Explicit,85.0
+150,49,F,SH,bachelors,47,Explicit,78.0
+151,50,F,SH,a level,37,Explicit,56.0
+152,51,F,SH,a level,47,Explicit,90.0
+153,52,F,NHC,a level,41,Explicit,77.0
+154,53,M,NHC,a level,37,Explicit,65.0
+155,54,F,NHC,gcse,35,Explicit,44.0
+156,55,F,NHC,bachelors,23,Explicit,47.0
+157,56,F,NHC,a level,30,Explicit,69.0
+158,57,M,NHC,a level,21,Explicit,43.0
+159,58,F,NHC,a level,7,Explicit,49.0
+160,59,F,NHC,bachelors,42,Explicit,54.0
+161,60,F,NHC,gcse,48,Explicit,77.0
+162,61,F,NHC,gcse,24,Explicit,38.0
+163,62,M,NHC,a level,41,Explicit,78.0
+164,63,F,NHC,gcse,33,Explicit,76.0
+165,64,F,NHC,bachelors,28,Explicit,71.0
+166,65,F,NHC,a level,29,Explicit,43.0
+167,66,F,NHC,gcse,16,Explicit,48.0
+168,67,F,NHC,a level,35,Explicit,60.0
+169,68,F,NHC,gcse,24,Explicit,59.0
+170,69,F,NHC,gcse,26,Explicit,42.0
+171,70,F,NHC,a level,36,Explicit,62.0
+172,71,F,NHC,a level,41,Explicit,82.0
+173,72,F,NHC,a level,36,Explicit,51.0
+174,73,F,NHC,gcse,38,Explicit,53.0
+175,74,F,NHC,gcse,25,Explicit,55.0
+176,75,F,NHC,a level,30,Explicit,62.0
+177,76,F,NHC,gcse,40,Explicit,65.0
+178,77,F,NHC,a level,17,Explicit,23.0
+179,78,F,NHC,gcse,29,Explicit,54.0
+180,79,F,NHC,gcse,9,Explicit,18.0
+181,80,F,NHC,a level,28,Explicit,68.0
+182,81,F,NHC,a level,23,Explicit,62.0
+183,82,F,NHC,gcse,31,Explicit,58.0
+184,83,F,NHC,gcse,41,Explicit,62.0
+185,84,F,NHC,missing data,30,Explicit,60.0
+186,85,M,NHC,a level,30,Explicit,70.0
+187,86,F,NHC,cert HE,44,Explicit,72.0
+188,87,M,NHC,bachelors,21,Explicit,36.0
+189,88,M,NHC,gcse,28,Explicit,50.0
+190,89,M,NHC,a level,21,Explicit,64.0
+191,90,F,NHC,gcse,36,Explicit,44.0
+192,91,F,NHC,missing data,20,Explicit,41.0
+193,92,F,NHC,a level,33,Explicit,50.0
+194,93,F,NHC,gcse,33,Explicit,65.0
+195,94,M,NHC,gcse,29,Explicit,56.0
+196,95,F,NHC,gcse,26,Explicit,43.0
+197,96,F,NHC,a level,32,Explicit,59.0
+198,97,F,NHC,a level,38,Explicit,63.0
+199,98,M,NHC,bachelors,48,Explicit,64.0
+200,99,F,NHC,a level,42,Explicit,86.0
+201,100,F,NHC,bachelors,20,Explicit,30.0
+202,101,F,NHC,a levels,27,Explicit,40.0
+203,102,F,NHC,a level,20,Explicit,28.0
