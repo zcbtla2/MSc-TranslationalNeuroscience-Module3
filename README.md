@@ -22,7 +22,10 @@ The schedule of the Module is presented in the following table.
 
 | Date | Topic | Morning Schedule | Afternoon Schedule| 
 | :---: | :---: |:--- |:--- |
-| 10th November | Introduction to Programming | <ul><li>*OPTION 1*: Review of primer exercises + Q&A on lectures and exercises </li><li>*OPTION 2*: Advanced visualization using Seaborn</li></ul> | Coding marathon: 8 exercises, 30 minutes each |  
+| 10th November | Introduction to Programming | <ul><li>*OPTION 1*: Review of primer exercises + Q&A on lectures and exercises </li><li>*OPTION 2*: Advanced visualization using Seaborn or cognitive data anlysis exercise</li></ul> | Coding marathon: 8 exercises, 30 minutes each |  
 | 11th November | Big data analysis: COVID and Cognition| <ul><li>*LECTURE:* Data cleaning and processing</li><li>*GUIDED WORKSHOP*: big data analysis of COVID and Cognition</li></ul> |  <ul><li>*CHALLENGE*: big data analysis of Dementia and Cognition </li><li> *LECTURE:* How to write a report?</li></ul> | 
 | 14th November |  Cognition and self harm  | <ul><li>*LECTURE:* Cognitive differences in self harm </li><li>Lived experience interview </li><li>*GUIDED WORKSHOP*: cognition and self harm</li></ul> | *CHALLENGE*: Cognition and eating disorders | 
 | 15th November |  Introduction to fMRI and sMRI analysis | *GUIDED WORKSHOP*: analysis of Parkinson's fMRI data | *CHALLENGE*: analysis of OCD fMRI data| 
+| 16th November |  fMRI Graph theory and connectivity | *GUIDED WORKSHOP*: fMRI graph analysis | *CHALLENGE*: brain connectivity change in the psychedelic state| 
+| 21st November |  Introduction to Machine learning | <ul><li>*LECTURE:* Machine learning introduction /li><li>*GUIDED WORKSHOP*: Alzheimer's prediction using machine learning </li></ul> | *CHALLENGE*: prediction of Alzheimer's progression| 
+| 22st November |  Substance use and substance addiction  | <ul><li>*LECTURE:* Substance use and substance addiction </li><li>*LECTURE*: Topic modelling</li><li>**GUIDED WORKSHOP*: Alzheimer's prediction using machine learning </li></ul> | *CHALLENGE*: prediction of Alzheimer's progression| 
